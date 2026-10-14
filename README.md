@@ -60,10 +60,4 @@ This project is a hands-on SQL analytics pipeline built to analyze and report re
 * Delivered a **reproducible framework** that can be scaled for larger datasets or integrated with BI platforms.
 
 
-## About Me
 
-Hi there! I'm **Praneeth Kumar Reddy Pappu**. I’m a Data Analyst, and I love working with data
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![LinkedIn] https://www.linkedin.com/in/praneethrdy/
